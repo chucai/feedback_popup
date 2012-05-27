@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 class FeedbackPopup::Message
   include ActiveModel::Conversion
   include ActiveModel::Validations

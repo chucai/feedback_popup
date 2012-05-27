@@ -49,7 +49,7 @@ $ ->
       @$el.find('form')[0].reset()
 
     showSending: ->
-      @replaceFormWithMessage "Sending..."
+      @replaceFormWithMessage "正在提交..."
 
     hideSending: ->
 
