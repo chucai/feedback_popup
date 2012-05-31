@@ -8,7 +8,7 @@
 Add to your `Gemfile`:
 
 ```ruby
-gem 'feedback_popup'， :git => "git://github.com/chucai/feedback_popup.git"
+gem 'feedback_popup',:git => "git://github.com/chucai/feedback_popup.git"
 ```
 
 Run `bundle install`
